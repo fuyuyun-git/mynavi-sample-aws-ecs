@@ -1,0 +1,4 @@
+  applicaiton.yml
+  server:
+    servlet:
+      context-path: /backend
