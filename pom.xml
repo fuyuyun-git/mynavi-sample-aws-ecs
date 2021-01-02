@@ -8,7 +8,7 @@
     <packaging>pom</packaging>
     <name>mynavi-sample-aws-ecs</name>
     <modules>
-        <module>backend-for-frontend</module>
+        <module>backendforfrontend</module>
         <module>backend</module>
     </modules>
 </project>
